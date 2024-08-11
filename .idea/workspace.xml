@@ -4,69 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b425a88-518d-4ebc-88e1-624576ea152b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_essentials.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/shapes/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/EnhancedForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/ForEachWithLambdas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Gradebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Iterators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Queues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_structures/GradeMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_structures/QuotaChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_structures/SalaryCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_structures/TestResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/FinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/MultipleExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/NegativeInputException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/RethrowingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ThrowingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/games/ChangeForADollarGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/games/FillInTheBlanks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/games/RollTheDiceGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gross_calculator/GrossPayCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gross_calculator/GrossPayInputCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/InheritanceChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/bakery/BirthdayCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/bakery/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/bakery/TasteTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/bakery/WeddingCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/AddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/AverageTestScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/LetterSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/Greetings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/InstantCreditCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/HomeAreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/HomeAreaCalculatorWithMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text_processing/PasswordValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text_processing/TextProcessor.java" afterDir="false" />
-    </list>
+    <list default="true" id="8b425a88-518d-4ebc-88e1-624576ea152b" name="Changes" comment="“Create utility and model packages with initial classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,8 +19,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AvishiGan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AvishiGan/java-essential-training.git&quot;,
+    &quot;accountId&quot;: &quot;78131a1c-0a77-4922-85fc-f9f4e358501f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -115,7 +70,7 @@
     "Application.TryCatch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "base-branch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/Ex_Files_Java_17_EssT_Objects_and_APIs",
     "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/java_essentials/src/Main.java",
@@ -127,7 +82,7 @@
       <recent name="polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TryCatch">
+  <component name="RunManager" selected="Application.Queues">
     <configuration name="InheritanceChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.InheritanceChecker" />
       <module name="java_essentials" />
@@ -212,10 +167,32 @@
       <option name="presentableId" value="Default" />
       <updated>1719035804321</updated>
     </task>
+    <task id="LOCAL-00001" summary="“Create utility and model packages with initial classes">
+      <option name="closed" value="true" />
+      <created>1723345363179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723345363179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="“Create utility and model packages with initial classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="“Create utility and model packages with initial classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
